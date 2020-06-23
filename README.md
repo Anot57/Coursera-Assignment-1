@@ -50,3 +50,96 @@
 	</section>
 </body>
 </html>
+
+
+CSS file:
+.row
+{
+	margin-bottom: 15px; 
+}
+		
+h1
+{
+	margin-top: 50px;
+	margin-bottom: 150px;
+	text-align: center;
+	font-style: italic;
+	color: black;			
+}
+
+p
+{
+	padding: 10px;
+	position: relative;
+	width: 100px
+	height: 100px;	
+	margin: 20px;
+	margin-top: 20px;
+	display: block;
+	color: black;
+	font-family: Helvetica;
+	font-size: 20px;
+}		
+
+
+.Subhead1
+{
+	background-color: pink;
+	padding: 10px;
+	margin-left: 125px;
+	width: 350px;	
+	border: 5px solid black;
+	display: block;
+	font-style: italic;
+	text-align: right; 
+}
+
+.Subhead2
+{
+	background-color: red;
+	padding: 10px;
+	margin-left: 175px;
+	border: 5px solid black;
+	width: 300px;	
+	display: block;
+	font-style: italic bold;
+	text-align: right; 
+}
+
+.Subhead3
+{
+	background-color: orange;
+	padding: 10px;
+	margin-left: 275px;
+	width: 200px;	
+	border: 5px solid black;
+	display: block;
+	font-style: italic ;
+	text-align: right; 
+}
+
+#p
+{
+	display: -webkit-box;
+	-webkit-box-orient:horizontal;
+}
+
+#p1
+{
+	border: 5px solid black;
+	background-color: gray;
+}
+
+#p2
+{
+	border: 5px solid black;
+	background-color: gray;
+}
+
+#p3
+{
+	border: 5px solid black;
+	background-color: gray;
+}
+
+		
