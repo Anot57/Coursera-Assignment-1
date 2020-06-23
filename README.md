@@ -7,7 +7,7 @@
 	<title>Assignment Solution for module 2</title>
 	<link rel="stylesheet" href="bootstrap.min.css">
 	<link rel="stylesheet" href="Styles.css">
-	<style>
+<style>
 		*
 		{
 			box-sizing: border-box;
@@ -15,7 +15,7 @@
 			padding: 0px;
 		}
 		
-	</style>
+</style>
 </head>
 <body>
 	<h1>Our Menu</h1>
@@ -30,8 +30,7 @@
 				</div>	
 			</div>
 			
-				
-			<div class="col-md-4">
+<div class="col-md-4">
 				<div id="p2">
 					<h2 class="Subhead2">Mushroom Gravy</h2>
 					<p>Mushroom gravy is a simple, usually red sauce that can be composed from stock (beef is typical, but chicken may be used), roux (a mixture of equal parts butter and flour to thicken), and mushroom base.It can also be enhanced with mace, to add a delicate nutmeg flavor.
